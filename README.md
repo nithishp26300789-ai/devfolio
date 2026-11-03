@@ -15,3 +15,5 @@ A responsive single-page developer portfolio built with semantic HTML5, modern C
 ## Local Setup
 1. Clone or download this repository.
 2. Open `index.html` in your browser, or launch it with the VS Code **Live Server** extension.
+
+3. 
